@@ -3,7 +3,7 @@ import logo from '../assets/logo-ehutimia.svg'
 function Hero() {
     return (
 
-        <section>
+        <section id='Hero'>
 
             <div className="container">
 
