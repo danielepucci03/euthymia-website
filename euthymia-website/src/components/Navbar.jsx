@@ -15,22 +15,22 @@ function Navbar() {
                     <ul>
 
                         <li>
-                            <a href="">
+                            <a href="#services">
                                 Servizi
                             </a>
                         </li>
                         <li>
-                            <a href="">
+                            <a href="#process">
                                 Come lavoriamo
                             </a>
                         </li>
                         <li>
-                            <a href="">
+                            <a href="#portfolio">
                                 Portfolio
                             </a>
                         </li>
                         <li>
-                            <a href="">
+                            <a href="#contacts">
                                 Contatti
                             </a>
                         </li>

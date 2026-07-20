@@ -5,7 +5,7 @@ import Services from './components/Services'
 import Portfolio from './components/Portfolio'
 import Process from './components/Process'
 import CTA from './components/CTA'
-import Foooter from './components/Footer'
+import Footer from './components/Footer'
 
 import './App.css'
 
@@ -15,6 +15,12 @@ function App() {
     <>
       <Navbar />
       <Hero />
+      <Problem />
+      <Services />
+      <Portfolio />
+      <Process />
+      <CTA />
+      <Footer />
     </>
   )
 }
