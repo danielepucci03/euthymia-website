@@ -7,7 +7,7 @@ function Services() {
                 <div className="intro-services">
 
                     <h2>
-                        Come ti aiuterà realmente Euthymia?
+                        Come possiamo aiutare la tua attività?
                     </h2>
 
                     <p>
