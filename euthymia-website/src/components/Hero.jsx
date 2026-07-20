@@ -1,8 +1,34 @@
+
+
 function Hero() {
     return (
-        <>
 
-        </>
+        <section>
+
+            <div className="container">
+
+                <div className="hero-content">
+
+                    <h1>
+                        La tua attività merita tutta la tua attenzione
+                    </h1>
+                    <p>
+                        Ai tuoi social pensiamo noi...
+                    </p>
+                    <button>
+                        Parliamo del tuo progetto
+                    </button>
+
+                </div>
+
+                <div className="hero-image">
+                    <img src='' alt="" />
+                </div>
+
+            </div>
+
+        </section>
+
     )
 }
 
