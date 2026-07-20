@@ -1,11 +1,11 @@
-import './components/Navbar'
-import './components/Hero'
-import './components/Problem'
-import './components/Services'
-import './components/Portfolio'
-import './components/Process'
-import './components/CTA'
-import './components/Footer'
+import Navbar from './components/Navbar'
+import Hero from './components/Hero'
+import Problem from './components/Problem'
+import Services from './components/Services'
+import Portfolio from './components/Portfolio'
+import Process from './components/Process'
+import CTA from './components/CTA'
+import Foooter from './components/Footer'
 
 import './App.css'
 
@@ -13,7 +13,8 @@ function App() {
 
   return (
     <>
-
+      <Navbar />
+      <Hero />
     </>
   )
 }

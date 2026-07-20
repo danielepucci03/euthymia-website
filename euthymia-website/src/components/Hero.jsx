@@ -1,4 +1,4 @@
-
+import logo from '../assets/logo-ehutimia.svg'
 
 function Hero() {
     return (
@@ -22,7 +22,7 @@ function Hero() {
                 </div>
 
                 <div className="hero-image">
-                    <img src='' alt="" />
+                    <img src={logo} alt="Logo Euthymia" />
                 </div>
 
             </div>
