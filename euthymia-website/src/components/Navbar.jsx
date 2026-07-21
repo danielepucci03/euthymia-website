@@ -1,10 +1,11 @@
 import imageLogo from '../assets/euthymia.svg'
 
+
 function Navbar() {
     return (
         <nav>
 
-            <div className="container">
+            <div className="container-nav">
 
                 <div className="logo-nav">
                     <img src={imageLogo} alt="Logo Euthymia" />

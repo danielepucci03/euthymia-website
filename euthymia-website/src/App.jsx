@@ -6,6 +6,7 @@ import Portfolio from './components/Portfolio'
 import Process from './components/Process'
 import CTA from './components/CTA'
 import Footer from './components/Footer'
+import Contacts from './components/Contacts'
 
 import './App.css'
 
@@ -21,6 +22,7 @@ function App() {
       <Process />
       <CTA />
       <Footer />
+      <Contacts />
     </>
   )
 }
