@@ -2,7 +2,7 @@ function Services() {
     return (
         <section id="services">
 
-            <div className="container">
+            <div className="container container-services">
 
                 <div className="intro-services">
 

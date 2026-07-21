@@ -1,4 +1,4 @@
-import imageLogo from '../assets/euthymia.svg'
+import imageLogo from '../assets/sfondotrasparente.svg'
 
 
 function Navbar() {

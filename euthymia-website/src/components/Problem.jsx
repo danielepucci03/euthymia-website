@@ -2,7 +2,7 @@ function Problem() {
     return (
         <section id="problem">
 
-            <div className="container">
+            <div className="container container-problem">
 
                 <div className="title-problem">
                     <h2>
