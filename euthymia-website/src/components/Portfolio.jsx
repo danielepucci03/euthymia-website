@@ -1,8 +1,16 @@
+import video1 from '../assets/1.mp4'
+import video2 from '../assets/2.mp4'
+import video3 from '../assets/3.mp4'
+
+
+
+
+
 function Portfolio() {
     return (
         <section id="portfolio">
 
-            <div className="container">
+            <div className="container-portfolio">
 
                 <div className="portfolio-intro">
 
@@ -20,15 +28,15 @@ function Portfolio() {
                 <div className="portfolio-carousel">
 
                     <div className="project-card">
-                        <img src={""} alt="" />
+                        <video src={video1} controls muted />
                     </div>
 
                     <div className="project-card">
-                        <img src={""} alt="" />
+                        <video src={video2} controls muted />
                     </div>
 
                     <div className="project-card">
-                        <img src={""} alt="" />
+                        <video src={video3} controls muted />
                     </div>
 
                 </div>

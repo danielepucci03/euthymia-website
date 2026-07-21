@@ -2,7 +2,7 @@ function Process() {
     return (
         <section id="process">
 
-            <div className="container">
+            <div className="container container-proccess">
 
                 <div className="process-intro">
 
@@ -21,7 +21,7 @@ function Process() {
                     <div className="step">
 
                         <span className="process-number">
-                            01.
+                            01
                         </span>
 
                         <h3>
@@ -37,7 +37,7 @@ function Process() {
                     <div className="step">
 
                         <span className="process-number">
-                            02.
+                            02
                         </span>
 
                         <h3>
@@ -53,7 +53,7 @@ function Process() {
                     <div className="step">
 
                         <span className="process-number">
-                            03.
+                            03
                         </span>
 
                         <h3>
@@ -69,7 +69,7 @@ function Process() {
                     <div className="step">
 
                         <span className="process-number">
-                            04.
+                            04
                         </span>
 
                         <h3>
