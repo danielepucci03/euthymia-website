@@ -5,7 +5,7 @@ function Hero() {
 
         <section id='Hero'>
 
-            <div className="container">
+            <div className="container container-hero">
 
                 <div className="hero-content">
 
