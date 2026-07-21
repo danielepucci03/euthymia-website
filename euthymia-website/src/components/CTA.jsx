@@ -1,8 +1,8 @@
 function CTA() {
     return (
-        <section id="contact">
+        <section id="cta">
 
-            <div className="container">
+            <div className="container container-cta">
 
                 <div className="cta-content">
 
@@ -14,7 +14,7 @@ function CTA() {
                         Raccontaci la tua attività e scopriamo insieme come costruire una comunicazione più efficace.
                     </p>
 
-                    <a href="">
+                    <a href="https://wa.me/393291624932">
                         Scrivici su whatsapp
                     </a>
 

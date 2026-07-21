@@ -1,4 +1,4 @@
-function Contacts() {
+/*function Contacts() {
     return (
         <section id="contact">
 
@@ -66,4 +66,4 @@ function Contacts() {
     )
 }
 
-export default Contacts
+export default Contacts */
