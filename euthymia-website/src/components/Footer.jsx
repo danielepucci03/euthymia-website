@@ -4,50 +4,7 @@ function Footer() {
     return (
         <section>
 
-            <div className="container">
-
-                <div className="footer-brand">
-                    <img src={imageLogo} alt="Foto Logo Footer" />
-                </div>
-
-                <div className="footer-links">
-
-                    <div className='footer-nav'>
-
-                        <nav>
-                            <ul>
-                                <li>
-                                    <a href="#hero">Home</a>
-                                </li>
-
-                                <li>
-                                    <a href="#services">Servizi</a>
-                                </li>
-
-                                <li>
-                                    <a href="#portfolio">Portfolio</a>
-                                </li>
-
-                                <li>
-                                    <a href="#contacts">Contatti</a>
-                                </li>
-                            </ul>
-                        </nav>
-
-                    </div>
-
-                    <div className="footer-social">
-
-                        <ul>
-
-                            <li>Instagram</li>
-                            <li>Watshapp</li>
-
-                        </ul>
-
-                    </div>
-
-                </div>
+            <div className="container container-footer">
 
                 <div className="footer-bottom">
 
@@ -57,18 +14,6 @@ function Footer() {
 
                     <a href="">Privacy Policy</a>
                     <a href="">Cookie Policy</a>
-
-                </div>
-
-                <div className="contact-intro">
-
-                    <h2>
-                        Parliamo della tua attività
-                    </h2>
-
-                    <p>
-                        Scrivici per raccontarci il tuo progetto e capire come possiamo aiutarti.
-                    </p>
 
                 </div>
 

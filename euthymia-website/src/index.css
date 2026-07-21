@@ -47,7 +47,7 @@ ul {
 
 /* NAVBAR */
 
-nav {
+.navbar {
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.13);
 }
 
@@ -128,8 +128,8 @@ nav {
 
 .container-problem {
   max-width: 1200px;
-  padding: 5rem;
-  margin-left: 11rem;
+  margin-bottom: 2rem;
+
 }
 
 .title-problem {
@@ -252,4 +252,10 @@ nav {
 
 .cta-content a {
   font-size: 20px;
+}
+
+
+/* FOOTER */
+.container-footer {
+  display: flex;
 }

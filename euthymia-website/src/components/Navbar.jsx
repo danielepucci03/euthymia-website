@@ -3,7 +3,7 @@ import imageLogo from '../assets/sfondotrasparente.svg'
 
 function Navbar() {
     return (
-        <nav>
+        <nav className='navbar'>
 
             <div className="container-nav">
 
