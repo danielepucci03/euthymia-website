@@ -4,7 +4,7 @@ import { BsInstagram, BsWhatsapp, BsTelephone, BsMailbox } from "react-icons/bs"
 
 function Footer() {
     return (
-        <section>
+        <section id='footer'>
 
             <div className="container">
 

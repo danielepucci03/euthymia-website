@@ -15,9 +15,9 @@ function Hero() {
                     <p>
                         Ai tuoi social pensiamo noi...
                     </p>
-                    <button>
+                    <a href="https://wa.me/393291624932">
                         Parliamo del tuo progetto
-                    </button>
+                    </a>
 
                 </div>
 

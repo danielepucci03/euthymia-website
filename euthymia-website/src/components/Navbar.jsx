@@ -31,7 +31,7 @@ function Navbar() {
                             </a>
                         </li>
                         <li>
-                            <a href="#contacts">
+                            <a href="#footer">
                                 Contatti
                             </a>
                         </li>
